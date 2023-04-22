@@ -1,0 +1,14 @@
+//2. WAP to print 10 to 1 using for loop.
+
+#include<stdio.h>
+
+int main(){
+	
+	int a = 10;
+	
+	for(a=10;a>=1;a--){
+		printf("%d\n",a);
+	}
+	
+	return 0;
+}
